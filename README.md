@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Zen
+- 👀 I’m interested in Web Development and also Arduino Uno
+- 🌱 I’m currently learning HTML,CSS and will study JavaScript next.
+- ⚡ I am currently taking and in my graduating year of Bachelor of Science in Computer Engineering.
